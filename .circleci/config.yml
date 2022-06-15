@@ -36,3 +36,6 @@ workflows:
             - Devop1
             - Devop2
             - Devop3
+            - Devop4
+            - Devop5
+            - Devop6
